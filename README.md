@@ -1,4 +1,8 @@
-tsjqueryformplugin
-==================
-
-TS jQuery Form Plugin allows developer to easily and unobtrusively create good looking web forms.
+<p><span style="color: #006dac; font-size: large;"><strong>TS jQuery Form Plugin</strong></span></p>
+<p style="line-height: 1.25em; max-width: 64em;">TS jQuery Form Plugin allows developer to easily and unobtrusively create good looking web forms.</p>
+<p style="line-height: 1.25em; max-width: 64em;">Developers usually spend a lot of time writing HTML for web forms and then fixing field alignment and layout related issues. If most of the form layout work is handled by a tool or a utility, then developer can  focus more on developing business logic which is the crux of the application. This Plugin facilitates developer by generating decent looking web-forms where alignment and basic design is already taken care off.</p>
+<p style="line-height: 1.25em; max-width: 64em;">Developer only needs to place few lines of html to indicate the controls and their grouping without worrying about design and alignments. Plugin will detect HTML inputs and then generate the layout automatically.  Developer can specify theme and layout style. Plugin is developed using CSS and jQuery (javascript) so it&rsquo;s lightweight and is really easy to use. Developer doesn&rsquo;t need much knowledge of HTML, jQuery or CSS to use this plugin. It also provides  a wizard like interface for better User Experience.</p>
+<p>For further details and documentation visit link below: <span style="font-size: x-small;"> <strong><a href="http://www.techno-soft.com/index.php?/download-jquery-form-plugin-free"></a></strong></span></p>
+<p><span style="font-size: normal;"><strong><a href="http://www.techno-soft.com/index.php?/download-jquery-form-plugin-free"><span style="color: #8b4513;">Download jQuery Form Plugin Free</span></a></strong></span></p>
+<p>Visit Home page: <span style="font-size: x-small;"><strong><a href="http://www.techno-soft.com/"></a></strong></span></p>
+<p><span style="font-size: normal;"><strong><a href="http://www.techno-soft.com/"><span style="color: #8b4513;">Technosoft Solutions (PVT) Ltd.</span></a></strong></span></p>
